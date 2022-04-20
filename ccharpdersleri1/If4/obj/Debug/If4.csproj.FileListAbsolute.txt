@@ -1,0 +1,7 @@
+C:\Users\servan.onal\source\repos\ccharpdersleri1\If4\bin\Debug\If4.exe.config
+C:\Users\servan.onal\source\repos\ccharpdersleri1\If4\bin\Debug\If4.exe
+C:\Users\servan.onal\source\repos\ccharpdersleri1\If4\bin\Debug\If4.pdb
+C:\Users\servan.onal\source\repos\ccharpdersleri1\If4\obj\Debug\If4.csproj.CoreCompileInputs.cache
+C:\Users\servan.onal\source\repos\ccharpdersleri1\If4\obj\Debug\If4.exe
+C:\Users\servan.onal\source\repos\ccharpdersleri1\If4\obj\Debug\If4.pdb
+C:\Users\servan.onal\source\repos\ccharpdersleri1\If4\obj\Debug\If4.csprojAssemblyReference.cache

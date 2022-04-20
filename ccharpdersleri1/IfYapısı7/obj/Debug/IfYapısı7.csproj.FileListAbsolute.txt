@@ -1,0 +1,7 @@
+C:\Users\servan.onal\source\repos\ccharpdersleri1\IfYapısı7\bin\Debug\IfYapısı7.exe.config
+C:\Users\servan.onal\source\repos\ccharpdersleri1\IfYapısı7\bin\Debug\IfYapısı7.exe
+C:\Users\servan.onal\source\repos\ccharpdersleri1\IfYapısı7\bin\Debug\IfYapısı7.pdb
+C:\Users\servan.onal\source\repos\ccharpdersleri1\IfYapısı7\obj\Debug\IfYapısı7.csprojAssemblyReference.cache
+C:\Users\servan.onal\source\repos\ccharpdersleri1\IfYapısı7\obj\Debug\IfYapısı7.csproj.CoreCompileInputs.cache
+C:\Users\servan.onal\source\repos\ccharpdersleri1\IfYapısı7\obj\Debug\IfYapısı7.exe
+C:\Users\servan.onal\source\repos\ccharpdersleri1\IfYapısı7\obj\Debug\IfYapısı7.pdb

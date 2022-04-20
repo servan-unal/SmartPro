@@ -1,0 +1,7 @@
+c:\users\servan.onal\source\repos\ccharpdersleri1\ccharpdersleri1\bin\Debug\ccharpdersleri1.exe.config
+c:\users\servan.onal\source\repos\ccharpdersleri1\ccharpdersleri1\bin\Debug\ccharpdersleri1.exe
+c:\users\servan.onal\source\repos\ccharpdersleri1\ccharpdersleri1\bin\Debug\ccharpdersleri1.pdb
+c:\users\servan.onal\source\repos\ccharpdersleri1\ccharpdersleri1\obj\Debug\ccharpdersleri1.csprojAssemblyReference.cache
+c:\users\servan.onal\source\repos\ccharpdersleri1\ccharpdersleri1\obj\Debug\ccharpdersleri1.csproj.CoreCompileInputs.cache
+c:\users\servan.onal\source\repos\ccharpdersleri1\ccharpdersleri1\obj\Debug\ccharpdersleri1.exe
+c:\users\servan.onal\source\repos\ccharpdersleri1\ccharpdersleri1\obj\Debug\ccharpdersleri1.pdb

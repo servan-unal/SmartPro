@@ -1,0 +1,7 @@
+c:\users\servan.onal\source\repos\ccharpdersleri1\IfElse\bin\Debug\IfElse.exe.config
+c:\users\servan.onal\source\repos\ccharpdersleri1\IfElse\bin\Debug\IfElse.exe
+c:\users\servan.onal\source\repos\ccharpdersleri1\IfElse\bin\Debug\IfElse.pdb
+c:\users\servan.onal\source\repos\ccharpdersleri1\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+c:\users\servan.onal\source\repos\ccharpdersleri1\IfElse\obj\Debug\IfElse.exe
+c:\users\servan.onal\source\repos\ccharpdersleri1\IfElse\obj\Debug\IfElse.pdb
+C:\Users\servan.onal\source\repos\ccharpdersleri1\IfElse\obj\Debug\IfElse.csprojAssemblyReference.cache
